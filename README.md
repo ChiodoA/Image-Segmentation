@@ -53,7 +53,7 @@ pip install torchvision
 ## Output Examples
 Below are example outputs from the two dog segmentation approaches:
 
-### OpenCV Color Segmentation
+### OpenCV  HSV color thresholding
 
 This example shows the dog detected using the OpenCV color-based segmentation method, with a red overlay mask highlighting the detected dog.
 
