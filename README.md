@@ -57,7 +57,7 @@ Below are example outputs from the two dog segmentation approaches:
 
 This example shows the dog detected using the OpenCV color-based segmentation method, with a red overlay mask highlighting the detected dog.
 
-![OpenCV Segmentation Example](Results\opencvOutput.png)
+![OpenCV HSV color thresholding Example](Results/opencvOutput.png)
 
 ---
 
@@ -65,5 +65,5 @@ This example shows the dog detected using the OpenCV color-based segmentation me
 
 This example shows the dog detected using the deep learning Mask R-CNN model, with a blue overlay mask.
 
-![Mask R-CNN Segmentation Example](Results\rcnnOutput.png)
+![Mask R-CNN Segmentation Example](Results/rcnnOutput.png)
 
