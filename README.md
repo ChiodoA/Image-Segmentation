@@ -47,7 +47,7 @@ pip install opencv-python
 pip install pillow 
 pip install torch 
 pip install torchvision
-
+```
 ---
 
 ## Output Examples
