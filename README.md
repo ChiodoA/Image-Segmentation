@@ -63,7 +63,7 @@ This example shows the dog detected using the OpenCV color-based segmentation me
 
 ### PyTorch Mask R-CNN Segmentation
 
-This example shows the dog detected using the deep learning Mask R-CNN model, with a blue overlay mask.
+This example shows the dog detected using the deep learning Mask R-CNN model, with a red overlay mask.
 
 ![Mask R-CNN Segmentation Example](Results/rcnnOutput.png)
 
